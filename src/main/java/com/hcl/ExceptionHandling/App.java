@@ -14,7 +14,9 @@ public class App
     	
 		System.out.println("End");
 	    
-	    	System.out.println("Updated file in Git Hub for pull request");
+	    System.out.println("Updated file in Git Hub for pull request");
+	    
+	    System.out.println("Updating with the latest version after git pull request");
     
       
     }
